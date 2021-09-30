@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ghpages-test/static/js/main.9ccf88dd.chunk.js",
+    "main.js.map": "/ghpages-test/static/js/main.9ccf88dd.chunk.js.map",
+    "runtime-main.js": "/ghpages-test/static/js/runtime-main.1e1cd28c.js",
+    "runtime-main.js.map": "/ghpages-test/static/js/runtime-main.1e1cd28c.js.map",
+    "static/js/2.eda02d7b.chunk.js": "/ghpages-test/static/js/2.eda02d7b.chunk.js",
+    "static/js/2.eda02d7b.chunk.js.map": "/ghpages-test/static/js/2.eda02d7b.chunk.js.map",
+    "index.html": "/ghpages-test/index.html",
+    "static/js/2.eda02d7b.chunk.js.LICENSE.txt": "/ghpages-test/static/js/2.eda02d7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e1cd28c.js",
+    "static/js/2.eda02d7b.chunk.js",
+    "static/js/main.9ccf88dd.chunk.js"
+  ]
+}
